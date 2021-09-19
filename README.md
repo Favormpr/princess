@@ -1,2 +1,3 @@
 # princess
-about my first project
+about my favorite things
+
